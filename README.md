@@ -1,4 +1,4 @@
-# ndsc2020-advanced
+# NDSC 2020 - Advance Category
 > National Data Science Competition 2020 (NDSC) is the largest online data science competition in Indonesia. In this competition, the enrolled team should complete product matching tasks based on images and the title dataset. My team and I focused on the image only due to many noises in the title dataset (i.e. we've found that there are similar titles for different images). To apply image processing, we suggest the use of a pre-trained model, VGG16, and the SIFT (Scale-Invariant Feature Transform). On one hand, the VGG16 is performed to extract the value of similarity between two images. On the other hand, the SIFT score is used to identify the number of edges and the ratio score between two images.
 
 > Click [here](https://www.kaggle.com/c/product-matching-id-ndsc-2020/submissions) to download the D-day dataset and [here](https://www.kaggle.com/c/pre-product-matching-id-ndsc-2020) to access pre-launched competition. On pre-launched competition, the data contains **10.2k training data** and **206 testing set**. However, the D-Day dataset contains **10.2k training data** and **32.6k testing data**.
